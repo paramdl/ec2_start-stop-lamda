@@ -1,3 +1,4 @@
+Create a policy and the below json (form 4-28) and attach the policy to the role
 For Creating roles:-
 
 {
@@ -34,6 +35,7 @@ cron_syntax.txt
 
 
 ec2_start.py::::::::--------
+
 import boto3
 region = 'us-east-1'
 instances = ['i-001e2d04e37ccde3b']
