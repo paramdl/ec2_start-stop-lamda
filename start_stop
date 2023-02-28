@@ -30,7 +30,7 @@ For Creating roles:-
 
 
 cron_syntax.txt
-56 3 ? * MON-SAT *
+cron(25 6 ? * MON-SAT *)
 
 
 
